@@ -1,0 +1,18 @@
+	"appRoles": [
+		{
+			"allowedMemberTypes": [
+				"Application"
+			],
+			"description": "Permissao Leitura.",
+			"displayName": "Read",
+			"id": "GUID (GERAR)",
+			"isEnabled": true,
+			"lang": null,
+			"origin": "Application",
+			"value": "app.read"
+		}
+	],
+
+    "accessTokenAcceptedVersion": 2,
+
+    "signInAudience": "AzureADandPersonalMicrosoftAccount",
